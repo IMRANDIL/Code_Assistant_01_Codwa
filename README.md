@@ -19,8 +19,8 @@ Codwa is a powerful AI-based code assistant designed to help developers with cod
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codwa.git
-   cd codwa
+   git clone https://github.com/IMRANDIL/Code_Assistant_01_Codwa.git
+  
    ```
 2. Install the required packages:
    ```bash
